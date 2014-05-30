@@ -1,0 +1,3 @@
+[submodule "wkpdf"]
+	path = wkpdf
+	url = https://github.com/xouabita/wkpdf.git
